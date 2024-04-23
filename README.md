@@ -39,7 +39,7 @@
 ## ``` wget https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/493/downloads/paper-1.20.4-493.jar ```
 ## Then rename your file name to paper.jar
 ## Then run this command
-## ``` java -Xmx4G -Xms8G -jar paper.jar --nogui ```
+## ``` java -Xmx8G -Xms4G -jar paper.jar --nogui ```
 ## Then accept the eula by changing the eula=false to eula=true in eula.txt file
 ## And run the above command again whenever you want to start your server.
 
