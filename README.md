@@ -42,5 +42,5 @@
 ## Then accept the eula by changing the eula=false to eula=true in eula.txt file
 ## And run the above command again whenever you want to start your server.
 
-### Hurray your server is now running🎉🎉🎉🎉🎉🎉!!!!!
-### If you encounter any problem feel free to DM me on discord - itzkrishop
+# Hurray your server is now running🎉🎉🎉🎉🎉🎉!!!!!
+# If you encounter any problem feel free to DM me on discord - itzkrishop
