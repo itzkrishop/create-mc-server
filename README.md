@@ -35,7 +35,8 @@
 ### Then right click and copy the link
 
 ### 2.4 - Then go to your codespace and paste this command replace (your link) with the link you copied
-## ``` wget (your link) ```
+## ``` wget (your link) ``` or for 1.20.4 use the following command
+## ``` wget https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/493/downloads/paper-1.20.4-493.jar ```
 ## Then rename your file name to paper.jar
 ## Then run this command
 ## ``` java -Xmx4G -Xms8G -jar paper.jar --nogui ```
